@@ -1,2 +1,2 @@
-# study-r-programming
-first work with programming
+# test-repo
+This is a test repo
